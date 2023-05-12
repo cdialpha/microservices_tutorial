@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/calvin/system_design/python/src/auth/venv"
+set -gx VIRTUAL_ENV "/home/calvin/repos/microservices_k8_tutorial/python/src/auth/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

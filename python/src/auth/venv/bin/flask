@@ -1,4 +1,4 @@
-#!/home/calvin/system_design/python/src/auth/venv/bin/python3
+#!/home/calvin/repos/microservices_k8_tutorial/python/src/auth/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

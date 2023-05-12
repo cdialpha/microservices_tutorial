@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/calvin/system_design/python/src/auth/venv"
+VIRTUAL_ENV="/home/calvin/repos/microservices_k8_tutorial/python/src/auth/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
